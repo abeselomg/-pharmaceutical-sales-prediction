@@ -1,0 +1,39 @@
+2022-05-25 17:42:09,902 : INFO : script_logger : Total rows: 1017209
+2022-05-25 17:42:09,902 : INFO : script_logger : Total rows: 1017209
+2022-05-25 17:42:09,902 : INFO : script_logger : Total rows: 1017209
+2022-05-25 17:42:09,902 : INFO : script_logger : Total columns: 9
+2022-05-25 17:42:09,902 : INFO : script_logger : Total columns: 9
+2022-05-25 17:42:09,902 : INFO : script_logger : Total columns: 9
+2022-05-25 17:42:10,179 : INFO : script_logger : Total count of Store: 1017209
+2022-05-25 17:42:10,179 : INFO : script_logger : Total count of Store: 1017209
+2022-05-25 17:42:10,179 : INFO : script_logger : Total count of Store: 1017209
+2022-05-25 17:42:10,440 : INFO : script_logger : Null values count:Store            0
+DayOfWeek        0
+Date             0
+Sales            0
+Customers        0
+Open             0
+Promo            0
+StateHoliday     0
+SchoolHoliday    0
+dtype: int64
+2022-05-25 17:42:10,440 : INFO : script_logger : Null values count:Store            0
+DayOfWeek        0
+Date             0
+Sales            0
+Customers        0
+Open             0
+Promo            0
+StateHoliday     0
+SchoolHoliday    0
+dtype: int64
+2022-05-25 17:42:10,440 : INFO : script_logger : Null values count:Store            0
+DayOfWeek        0
+Date             0
+Sales            0
+Customers        0
+Open             0
+Promo            0
+StateHoliday     0
+SchoolHoliday    0
+dtype: int64
